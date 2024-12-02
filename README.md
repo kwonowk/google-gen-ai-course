@@ -46,3 +46,4 @@ Objective
 
 Resources
 - <i>MLOPs for Generative AI</i> whitepaper (https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
+# advent-of-code-2024
