@@ -31,7 +31,7 @@ Resources
 - <i>Build an agentic ordering system in LangGraph</i> notebook (https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/)
 
 ## Part 4 : Domain-Specific LLMs
-Objective
+Objectives
 - Learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.
 - Learn how to fine-tune a custom Gemini model using own labeled data to solve custom tasks
 
